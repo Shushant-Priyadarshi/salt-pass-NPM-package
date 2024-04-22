@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Shushant-Priyadarshi/salt-pass-NPM-package/issues"
   },
-  "homepage": "https://github.com/Shushant-Priyadarshi/salt-pass-NPM-package#readme"
+  "homepage": "https://github.com/Shushant-Priyadarshi/salt-pass-NPM-package#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
 }

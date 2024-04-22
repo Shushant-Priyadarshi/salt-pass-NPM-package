@@ -1,6 +1,6 @@
 {
   "name": "salt-password",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "salt the password",
   "main": "index.js",
   "scripts": {

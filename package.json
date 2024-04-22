@@ -1,0 +1,23 @@
+{
+  "name": "salt-pass",
+  "version": "1.0.0",
+  "description": "salt the password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shushant-Priyadarshi/salt-pass-NPM-package.git"
+  },
+  "keywords": [
+    "salting",
+    "Password"
+  ],
+  "author": "Shushant Priyadarshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shushant-Priyadarshi/salt-pass-NPM-package/issues"
+  },
+  "homepage": "https://github.com/Shushant-Priyadarshi/salt-pass-NPM-package#readme"
+}

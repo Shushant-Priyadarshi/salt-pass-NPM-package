@@ -32,7 +32,7 @@ To hash a password using a salt, you can use the `hashPassword` function:
 const saltPass = require('salt-password');
 
 const password = 'YourPass';
-const salt = generateSalt();     // generating salt using SHA-256
+const salt = saltPass.generateSalt();     // generating salt using SHA-256
 const hashedPassword = saltPass.hashPassword(password, salt); //Generating Password
 
 console.log('Password:', password); //Your Password

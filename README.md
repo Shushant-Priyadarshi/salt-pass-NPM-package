@@ -40,6 +40,11 @@ console.log('Salt:', salt);  //Salt generated
 console.log('Hashed Password:', hashedPassword); //Hashed Password
 ```
 
+
+
+https://github.com/Shushant-Priyadarshi/salt-pass-NPM-package/assets/148479955/be297f3f-8f59-4f95-879a-97b57f4c3723
+
+
 ## Verifying a Password
 ```javascript
 //importing package
@@ -55,6 +60,12 @@ const inputpass = "Shushi"; //Password input by user
 const isPassValid = saltPass.verifyPassword(inputpass,hashedPassword,salt); //Checking if the password are matching
 console.log(isPassValid); 
 ```
+
+
+
+
+https://github.com/Shushant-Priyadarshi/salt-pass-NPM-package/assets/148479955/84abe081-2e68-45f7-b74c-929a212d94ce
+
 
 # Contributing
 

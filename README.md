@@ -1,13 +1,13 @@
 # salt-password
 
-salt-pass is a lightweight npm package for securely salting, hashing, and verifying passwords in Node.js applications. It provides functions for generating random salts, hashing passwords using the SHA-256 algorithm, and verifying passwords against their hashed counterparts, enhancing the security of password storage and authentication processes.
+salt-password is a lightweight npm package for securely salting, hashing, and verifying passwords in Node.js applications. It provides functions for generating random salts, hashing passwords using the SHA-256 algorithm, and verifying passwords against their hashed counterparts, enhancing the security of password storage and authentication processes.
 
 # Installation
 
-You can install salt-pass using npm:
+You can install salt-password using npm:
 
 ```bash
-npm install salt-pass
+npm install salt-password
 ```
 
 # Usage

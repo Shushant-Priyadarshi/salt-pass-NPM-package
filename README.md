@@ -37,7 +37,7 @@ const hashedPassword = saltPass.hashPassword(password, salt); //Generating Passw
 
 console.log('Password:', password); //Your Password
 console.log('Salt:', salt);  //Salt generated
-console.log('Hashed Password:', hashedPassword); //Hased Password
+console.log('Hashed Password:', hashedPassword); //Hashed Password
 ```
 
 ## Verifying a Password

@@ -71,7 +71,5 @@ https://github.com/Shushant-Priyadarshi/salt-pass-NPM-package/assets/148479955/8
 
 Contributions are welcome! If you encounter any bugs, have feature requests, or want to contribute enhancements or fixes, please feel free to open an issue or submit a pull request.
 
-# License
 
-This project is licensed under the MIT License.
 
